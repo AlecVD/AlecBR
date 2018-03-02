@@ -4,13 +4,13 @@
   "description": " A Battle Royale game made with Phaser and Socket.io ",
   "main": "newServer.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node newServer.js"
   },
   "keywords": [
     "Phaser",
     "Node.js",
-    "socket.io"
-    "Battle Royale"
+    "socket.io",
+    "Battle Royale",
     "Game"
   ],
   "author": "Alec van Dijken",
