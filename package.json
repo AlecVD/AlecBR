@@ -1,0 +1,22 @@
+{
+  "name": "alecbr",
+  "version": "1.0.0",
+  "description": " A Battle Royale game made with Phaser and Socket.io ",
+  "main": "newServer.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Phaser",
+    "Node.js",
+    "socket.io"
+    "Battle Royale"
+    "Game"
+  ],
+  "author": "Alec van Dijken",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.4"
+  }
+}
